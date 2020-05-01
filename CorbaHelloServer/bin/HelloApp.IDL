@@ -1,0 +1,12 @@
+
+
+module HelloApp{
+	
+	interface Hello{
+		
+		attribute string hellomessage;
+		
+	};
+
+
+};
